@@ -6,12 +6,12 @@ title: "About Me"
 
 <img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Zach Hager</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/zach-hager-2737b017a/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/zdawgydawgy11" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -19,45 +19,62 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+I am passionate about leveraging AI and business principles to create meaningful impact in developing countries. My journey combines hands-on entrepreneurship with strategic management education, giving me a unique perspective on building products that solve real-world problems.
 
 ### Education
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+- **Strategic Management**, Brigham Young University, Provo
+- **Relevant Focus**: Product management, business strategy, technology integration
+- **Key Interests**: AI applications, international development, business innovation
 
 ### Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### Owner - Wailoaloa Shave Ice LLC
+*2024 - Present*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- Founded and operate a food service business
+- Manage all aspects of operations, customer service, and business development
+- Apply product management principles to enhance customer experience
+- Develop and implement business strategies for growth
 
-#### Another Position - Company Name
-*Dates*
+#### Sales Route Manager - Glide Window Cleaning
+*2023 - 2024*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Managed sales routes and customer relationships
+- Optimized service delivery and customer satisfaction
+- Trained and coordinated team members
+- Increased operational efficiency through strategic planning
+
+#### Team Lead - 3 Minute Express Carwash
+*2017 - 2020*
+
+- Led team operations and workflow optimization
+- Delivered exceptional customer service experiences
+- Implemented process improvements to increase efficiency
+- Mentored and trained team members
 
 ### Skills & Interests
 
 **Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+- Product management and strategy
+- AI and technology integration
+- Business analysis and planning
+- Process optimization
 
-**Soft Skills**
-- Communication and presentation
+**Professional Skills**
+- Customer service management
+- Management training and team leadership
 - Cross-functional collaboration
 - Strategic thinking and problem-solving
 
+**Languages**
+- English (native)
+- Khmer
+- Spanish
+
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+I am deeply passionate about using AI and business principles to help developing countries. I believe technology can be a powerful force for positive change when applied thoughtfully to address real challenges faced by communities around the world.
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+I am seeking a career that challenges me and allows me to use technology and business principles to help change people's lives. I'm particularly interested in opportunities that combine product management, technology innovation, and social impact. Whether building products for underserved markets or applying AI to solve meaningful problems, I'm driven to make a difference.
